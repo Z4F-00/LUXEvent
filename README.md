@@ -21,8 +21,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4F-00/LUXEvent/refs/
 
 Agar script otomatis berjalan kembali saat Anda berpindah server (Teleport) atau membuka game, ikuti langkah-langkah berikut:
  * Buat File Baru: Di dalam folder executor Anda, buatlah file teks baru dan beri nama sesuai keinginan anda.
- *  * Salin Script: Masukkan salah satu kode Script Loader di atas ke dalam file tersebut.
- > Jika anda sudah mengunduh file atau script yang ada di Dashboard ini, maka langkah-langkah sebelumnya tidak perlu anda lakukan.
+ * Salin Script: Masukkan salah satu kode Script Loader di atas ke dalam file tersebut.
+ * > Jika anda sudah mengunduh file atau script yang ada di Dashboard ini, maka langkah-langkah sebelumnya tidak perlu anda lakukan.
  * Pindahkan file yang sudah anda unduh atau anda buat ke Folder Auto-Execute: Simpan file tersebut ke lokasi folder autoexecute sesuai dengan executor yang Anda gunakan:
 
 ### 📂 Lokasi Folder Berdasarkan Executor:
